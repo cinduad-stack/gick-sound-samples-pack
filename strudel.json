@@ -1,0 +1,12 @@
+{
+  "_base": "https://raw.githubusercontent.com/cinduad-stack/gick-sound-samples-pack/main/",
+  "tale": "samples/talempong/talempong.wav",
+  "napan": [
+    "samples/napan/0.wav",
+    "samples/napan/1.wav",
+    "samples/napan/2.wav",
+    "samples/napan/3.wav",
+    "samples/napan/4.wav",
+    "samples/napan/5.wav"
+  ]
+}

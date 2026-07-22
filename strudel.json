@@ -9,6 +9,8 @@
     "samples/napan/4.wav",
     "samples/napan/5.wav"
   ],
-  "suava": "samples/suava/0.wav",
-  "suava": "samples/suava/1.wav"
+  "suava": [
+    "samples/suava/0.wav",
+    "samples/suava/1.wav"
+  ]
 }

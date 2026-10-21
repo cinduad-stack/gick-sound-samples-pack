@@ -1,5 +1,5 @@
 {
-  "_base": "https://cdn.jsdelivr.net/gh/cinduad-stack/gick-sound-samples-pack/main/",
+  "_base": "https://cdn.jsdelivr.net/gh/cinduad-stack/gick-sound-samples-pack@main/",
   "tale": "samples/talempong/talempong.wav",
   "napan": [
     "samples/napan/0.wav",

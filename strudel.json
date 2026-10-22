@@ -14,6 +14,12 @@
     "samples/suava/1.wav"
   ],
   "pakik": [
-    "samples/pakik/0.wav"
+    "samples/pakik/0.wav",
+    "samples/pakik/1.wav",
+    "samples/pakik/2.wav",
+    "samples/pakik/3.wav",
+    "samples/pakik/4.wav",
+    "samples/pakik/5.wav",
+    "samples/pakik/6.wav"
   ]
 }
